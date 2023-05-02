@@ -1,4 +1,4 @@
-Make sure to add the .env file in root directory. It's content should contain a code you get from railway. Access the database click "Connect" and under "Available" Variables there will be "Database_URL"
+Make sure to add the .env file in root directory. It's content should contain a code you get from railway. Access the database click "Connect" and under "Available" Variables there will be "Database_URL". The .env file states:
 
 # Environment variables declared in this file are automatically made available to Prisma.
 # See the documentation for more detail: https://pris.ly/d/prisma-schema#accessing-environment-variables-from-the-schema
